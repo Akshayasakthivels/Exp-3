@@ -1,59 +1,61 @@
-# Exp 03- RAILWAY MANAGEMENT SYSTEM
+# Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
-# AIM:
+# AIM: 
+To develop the Railway Reservation System using Star UML tool.
 
-To develop the Online Ticket Reservation System using Star UML tool.
+# SRS (Procedure):
+UML Diagrams for Railway Reservation System are:
 
-# PROBLEM STATEMENT:
+1.Usecase Diagram
 
-1.An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing passengers, particularly in the commercial airline, railway industries.
+2.Activity Diagram 
 
-2.An E-Ticket offers many advantages for both travelers and airline including security, flexibility and cost convenience. At the same time, it also provides the standard assurance of the traditional paper ticket, scaling choice, travel time options and other flexibilities.
+3.Class Diagram 
 
-3.Passengers typically print out copies of their E-Ticket including confirmation E-mail and other document. All those documents can be replaced by pulling them out of the computer again and only a person with proper identification can actually use an E-Ticket.
+4.Communication Diagram 
 
-4.E-Ticket passengers can receive everything from gate assignments to cancellation or delay through E-mail, text messages sent to their home or business computers or to their cell phones.
+5.Package Diagram
 
-5.Finally, using E-Ticket is a more environmental friendly approach. The main purpose of the online bus ticket system is to provide another way for transnational customers to buy their tickets.
+6.Sequence Diagram
 
-# UML DIAGRAMS:
+The actors in this are Employee , Admin , Passenger , Locomotive .
 
 # DIAGRAMS:
 
-## USE CASE:
+## USECASE DIAGRAM
 
-![image](https://github.com/user-attachments/assets/208f4877-59ac-4caa-a77b-d865fb5d2a67)
-
-
-
-## CLASS DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/c2234494-d22f-4da6-9875-5361efb6d30c)
-
-
-## SEQUENCE DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/7f5cb74f-b8ca-41ae-ba56-fedde45c73b7)
+<img width="1148" height="1152" alt="image" src="https://github.com/user-attachments/assets/3ec88757-e275-4bed-b25b-a08c5cbf335c" />
 
 
 
-## COMMUNICATION DIAGRAM:
+## ACTIVITY DIAGRAM
 
-![image](https://github.com/user-attachments/assets/b59b85e9-136a-45f8-94ab-a6a3469c5ab3)
-
-
-## ACTIVITY DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/8477f28e-1b6e-40d9-8e76-3929e20b7dfd)
+<img width="571" height="1683" alt="image" src="https://github.com/user-attachments/assets/6aab3b8f-f2d5-4392-a545-40bc1f5c9127" />
 
 
+## CLASS DIAGRAM
 
-## PACKAGE DIAGRAM:
+<img width="1201" height="883" alt="image" src="https://github.com/user-attachments/assets/27bd05da-f783-4ef4-a632-092f7ade1cbd" />
 
-![image](https://github.com/user-attachments/assets/9a0c6e40-3b4a-4d19-bb78-4fd8b7d25322)
+
+
+## COMMUNICATION DIAGRAM
+
+<img width="1236" height="1061" alt="image" src="https://github.com/user-attachments/assets/3fc69c6f-c30d-4b82-867a-fcc702fd99db" />
+
+
+
+## PACAKGE DIAGRAM
+
+<img width="981" height="1022" alt="image" src="https://github.com/user-attachments/assets/9d915561-5b7a-4256-be92-db854adfa493" />
+
+
+
+## SEQUENCE DIAGRAM
+
+<img width="1246" height="1081" alt="image" src="https://github.com/user-attachments/assets/98a8dc8f-6dbf-4106-9918-6386e7cd69ce" />
 
 
 
 # RESULT:
-
 Thus the project to develop e-ticketing system was developed using Star UML Software.
